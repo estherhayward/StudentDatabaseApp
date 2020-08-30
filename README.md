@@ -1,4 +1,4 @@
-#Student Database App
+# Student Database App
 
 ## What this project is about
 The aim was to build an application that manages student enrollments and their tuition balance using object oriented principles in Java.
